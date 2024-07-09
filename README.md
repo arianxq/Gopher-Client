@@ -1,4 +1,4 @@
-# Gopher-Client    COMP3310 - Assignment 2: Indexing a Gopher
+# Gopher-Client    Indexing a Gopher
 
 ## Table of Contents
 1. Contributing
@@ -8,8 +8,7 @@
 
 ## 1. Contributing
 
-Student number: u7527676
-Name: Nuoxi Qin
+Name: Nuoxi(Aria) Qin
 
 ## 2. Compilation and Execution
 
