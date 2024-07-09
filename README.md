@@ -14,7 +14,7 @@ Name: Nuoxi(Aria) Qin
 
 The GopherClient class contains the main() method, which needs to be compiled
 
-## 3. output
+## 3. Output
 
 Report of Gopher Crawl
 ---------------------
